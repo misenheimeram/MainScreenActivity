@@ -27,6 +27,7 @@ public class AllProductsActivity extends ListActivity {
     // Progress Dialog
     private ProgressDialog pDialog;
 
+     //test
     // Creating JSON Parser object
     JSONParser jParser = new JSONParser();
 
